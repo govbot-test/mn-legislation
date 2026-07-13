@@ -1,0 +1,8 @@
+📊 Text Extraction Summary for mn
+========================================
+
+Total bills:                 9808
+Processed:                   9808
+Successful:                  4917
+Errors:                      0
+Skipped (already processed): 4891

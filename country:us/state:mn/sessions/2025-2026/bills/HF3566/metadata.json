@@ -1,0 +1,93 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "HF 3566",
+  "title": "Crime for damage to farm machinery and equipment established, crime for trespasses on agricultural land established, and criminal penalties provided.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Agriculture and Agriculture Department",
+    "Crimes and Criminals"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-hf3566"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduction and first reading, referred to Agriculture Finance and Policy",
+      "date": "2026-02-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:20Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Harder",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Harder\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Burkel",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Burkel\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Allen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Allen\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduction",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3566/versions/0/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-02-20",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3566?body=House",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mn/government",
+    "name": "Minnesota",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mn"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:20Z"
+  }
+}

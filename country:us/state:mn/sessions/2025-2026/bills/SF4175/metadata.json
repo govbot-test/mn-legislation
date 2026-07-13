@@ -1,0 +1,90 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "SF 4175",
+  "title": "Greater Minneapolis Council of Churches site selection and property acquisition for a new services and supports facility grant appropriation",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations",
+    "Children and families and Children, Youth and Families Department",
+    "Cities and Towns-Specific",
+    "Nonprofit and Charitable Organizations"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-sf4175"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduction and first reading",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:23Z"
+      }
+    },
+    {
+      "description": "Referred to Health and Human Services",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Fateh",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Fateh\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduction",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4175/versions/0/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-03-04",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4175?body=Senate",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mn/government",
+    "name": "Minnesota",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mn"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:23Z"
+  }
+}

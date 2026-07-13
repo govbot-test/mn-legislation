@@ -1,0 +1,143 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "SF 3684",
+  "title": "Mary C. Murphy Library Construction Grants Program modifications, appropriation, and bond issuance authorization",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations",
+    "Bonds",
+    "Education and Education Department",
+    "Libraries"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-sf3684"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduction and first reading",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:22Z"
+      }
+    },
+    {
+      "description": "Referred to Education Finance",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:22Z"
+      }
+    },
+    {
+      "description": "Comm report: To pass and re-referred to Capital Investment",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:22Z"
+      }
+    },
+    {
+      "description": "Authors added Johnson Stewart; Nelson; Hoffman",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Kunesh",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Kunesh\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Johnson Stewart",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Johnson Stewart\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nelson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nelson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hoffman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hoffman\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "HF 4035",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "Introduction",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/3684/versions/0/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-02-18",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/3684?body=Senate",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mn/government",
+    "name": "Minnesota",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mn"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:22Z"
+  }
+}

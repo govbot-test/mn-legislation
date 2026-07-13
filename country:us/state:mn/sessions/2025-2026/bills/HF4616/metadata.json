@@ -1,0 +1,188 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "HF 4616",
+  "title": "Minnesota wealth tax established.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-hf4616"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduction and first reading, referred to Taxes",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:22Z"
+      }
+    },
+    {
+      "description": "Authors added Falconer and Pursell",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Gomez",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Gomez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lee, K.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lee, K.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kozlowski",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kozlowski\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Greenman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Greenman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Finke",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Finke\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sencer-Mura",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sencer-Mura\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Smith",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jordan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jordan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Xiong",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Xiong\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mahamoud",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mahamoud\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Noor",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Noor\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hollins",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hollins\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Falconer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Falconer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pursell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pursell\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduction",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4616/versions/0/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-03-24",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4616?body=House",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mn/government",
+    "name": "Minnesota",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mn"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:22Z"
+  }
+}

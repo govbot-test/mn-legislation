@@ -1,0 +1,115 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "HF 3786",
+  "title": "Children's museums clarified to be eligible to receive children's museum competitive grants from the arts and cultural heritage fund.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Arts",
+    "Museums and Theaters"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-hf3786"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduction and first reading, referred to Legacy Finance",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:24Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Lillie",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Lillie\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Skraba",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Skraba\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Elkins",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Elkins\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Momanyi-Hiltsley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Momanyi-Hiltsley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dippel",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dippel\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "SF 3798",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "Introduction",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3786/versions/0/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-02-26",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3786?body=House",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mn/government",
+    "name": "Minnesota",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mn"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:24Z"
+  }
+}

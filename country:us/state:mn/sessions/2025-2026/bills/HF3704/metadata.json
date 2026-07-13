@@ -1,0 +1,216 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "HF 3704",
+  "title": "Sale and distribution of certain seeds coated or treated with systemic insecticides without the approval of the commissioner of agriculture, and application or treatment of ornamental outdoor plants and turf with neonicotinoid insecticides prohibited.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Agriculture and Agriculture Department",
+    "Fertilizers and Pesticides",
+    "Plants, Seeds, and Nurseries"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-hf3704"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduction and first reading, referred to Agriculture Finance and Policy",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:23Z"
+      }
+    },
+    {
+      "description": "Author added Falconer",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:23Z"
+      }
+    },
+    {
+      "description": "Authors added Liebling and Johnson, P.",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Pursell",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Pursell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hansen, R.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hansen, R.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Fischer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Fischer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Momanyi-Hiltsley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Momanyi-Hiltsley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cha",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cha\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kraft",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kraft\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gottfried",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gottfried\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Frazier",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Frazier\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Vang",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Vang\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lee, F.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lee, F.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Agbaje",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Agbaje\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Smith",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Falconer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Falconer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Liebling",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Liebling\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Johnson, P.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Johnson, P.\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "SF 4052",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "Introduction",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3704/versions/0/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-02-24",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3704?body=House",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mn/government",
+    "name": "Minnesota",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mn"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:23Z"
+  }
+}

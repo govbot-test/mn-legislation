@@ -1,0 +1,169 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "HF 3927",
+  "title": "Dakota County park buildings and facilities replacement funding provided, bonds issued, and money appropriated.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations",
+    "Bonds",
+    "Counties-Specific",
+    "Parks and Trails"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-hf3927"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduction and first reading, referred to Capital Investment",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:19Z"
+      }
+    },
+    {
+      "description": "Author added Pursell",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:19Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Reyer",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Reyer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Altendorf",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Altendorf\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Berg",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Berg\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hanson, J.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hanson, J.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bierman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bierman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Witte",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Witte\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Virnig",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Virnig\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hansen, R.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hansen, R.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "P\u00e9rez-Vega",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"P\\u00e9rez-Vega\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Huot",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Huot\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pursell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pursell\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduction",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3927/versions/0/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-03-03",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3927?body=House",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mn/government",
+    "name": "Minnesota",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mn"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:19Z"
+  }
+}

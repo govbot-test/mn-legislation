@@ -1,0 +1,116 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "HF 4037",
+  "title": "Secretary of state required to provide voter and election data to an agency or department of the federal government.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Data Practices and Privacy",
+    "Elections",
+    "Governmental Operations-State"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-hf4037"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduction and first reading, referred to Elections Finance and Government Operations",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Roach",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Roach\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Davis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Davis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Altendorf",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Altendorf\"}",
+      "organization_id": null
+    },
+    {
+      "name": "McDonald",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"McDonald\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gordon",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gordon\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "SF 4053",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "Introduction",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4037/versions/0/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-03-05",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4037?body=House",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mn/government",
+    "name": "Minnesota",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mn"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:22Z"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Introduction and first reading, referred to Workforce, Labor, and Economic Development Finance and Policy",
+    "occurred_at": "2025-03-06",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/1965?body=House",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HF 1965"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Author added Abeler",
+    "occurred_at": "2025-04-07",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/1920?body=Senate",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SF 1920"
+}

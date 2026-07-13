@@ -1,0 +1,165 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "HF 4088",
+  "title": "Persons convicted of a crime of violence made ineligible for MFIP, medical assistance and food support, and MinnesotaCare.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Crimes and Criminals",
+    "Food and Nutrition",
+    "Health and Health Department",
+    "Human Services and Human Services Department"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-hf4088"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduction and first reading, referred to Human Services Finance and Policy",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:26Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Schultz",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Schultz\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Niska",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Niska\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mekeland",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mekeland\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Burkel",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Burkel\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jacob",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jacob\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Roach",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Roach\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Heintzeman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Heintzeman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dotseth",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dotseth\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Altendorf",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Altendorf\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Knudsen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Knudsen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lawrence",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lawrence\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "SF 4389",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "Introduction",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4088/versions/0/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-03-06",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4088?body=House",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mn/government",
+    "name": "Minnesota",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mn"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:26Z"
+  }
+}

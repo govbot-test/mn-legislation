@@ -1,0 +1,84 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "HF 3827",
+  "title": "Grants from Bureau of Criminal Apprehension to local law enforcement clarified as reimbursements, law related to recording of crimes updated, process for determining how certain criminal records are ineligible for sealing established, and court required to provide order for protection for access by law enforcement.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Courts",
+    "Law Enforcement",
+    "Public Safety Department"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-hf3827"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduction and first reading, referred to Public Safety Finance and Policy",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Duran",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Duran\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "SF 4371",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "Introduction",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3827/versions/0/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-02-27",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3827?body=House",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mn/government",
+    "name": "Minnesota",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mn"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:23Z"
+  }
+}

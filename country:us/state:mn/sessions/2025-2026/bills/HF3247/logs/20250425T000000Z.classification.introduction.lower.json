@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Introduction and first reading, referred to Ways and Means",
+    "occurred_at": "2025-04-25",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/3247?body=House",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HF 3247"
+}

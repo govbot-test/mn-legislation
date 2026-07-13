@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Chief author stricken Eichorn",
+    "occurred_at": "2025-03-24",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/418?body=Senate",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SF 418"
+}

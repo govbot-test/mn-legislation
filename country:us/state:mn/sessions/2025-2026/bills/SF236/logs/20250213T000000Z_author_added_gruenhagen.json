@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Author added Gruenhagen",
+    "occurred_at": "2025-02-13",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/236?body=Senate",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SF 236"
+}

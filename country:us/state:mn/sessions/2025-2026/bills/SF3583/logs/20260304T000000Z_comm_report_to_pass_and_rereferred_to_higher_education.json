@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Comm report: To pass and re-referred to Higher Education",
+    "occurred_at": "2026-03-04",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage",
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/3583?body=Senate",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SF 3583"
+}

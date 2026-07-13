@@ -1,0 +1,93 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "HF 3819",
+  "title": "Licensing inspection requirements for child care providers modified, program integrity requirements for child care assistance program established, and report required.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Children and Minors",
+    "Children-Child Care and Facilities"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-hf3819"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduction and first reading, referred to Children and Families Finance and Policy",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:26Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "West",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"West\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Robbins",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Robbins\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Scott",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Scott\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduction",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3819/versions/0/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-02-27",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3819?body=House",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mn/government",
+    "name": "Minnesota",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mn"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:26Z"
+  }
+}

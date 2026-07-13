@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Comm report: To pass as amended and re-refer to State and Local Government",
+    "occurred_at": "2025-03-17",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage",
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2215?body=Senate",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SF 2215"
+}

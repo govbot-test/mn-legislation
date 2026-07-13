@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Comm report: To pass and re-referred to Health and Human Services",
+    "occurred_at": "2026-03-09",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage",
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2071?body=Senate",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SF 2071"
+}

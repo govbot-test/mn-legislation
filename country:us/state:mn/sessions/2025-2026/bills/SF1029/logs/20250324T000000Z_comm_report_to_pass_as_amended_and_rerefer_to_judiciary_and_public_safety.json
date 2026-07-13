@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Comm report: To pass as amended and re-refer to Judiciary and Public Safety",
+    "occurred_at": "2025-03-24",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage",
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/1029?body=Senate",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SF 1029"
+}

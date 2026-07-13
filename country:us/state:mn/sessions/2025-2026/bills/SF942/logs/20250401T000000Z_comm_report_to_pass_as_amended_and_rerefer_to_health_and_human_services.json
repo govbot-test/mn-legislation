@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Comm report: To pass as amended and re-refer to Health and Human Services",
+    "occurred_at": "2025-04-01",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage",
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/942?body=Senate",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SF 942"
+}

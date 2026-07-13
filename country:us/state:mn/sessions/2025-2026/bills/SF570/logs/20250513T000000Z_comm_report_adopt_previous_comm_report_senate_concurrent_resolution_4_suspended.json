@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Comm report: Adopt previous comm report Senate Concurrent Resolution 4 suspended",
+    "occurred_at": "2025-05-13",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/570?body=Senate",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SF 570"
+}

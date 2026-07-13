@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Introduction",
+    "occurred_at": "2025-05-08",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.revisor.mn.gov/bills/94/2025/0/SR/42?body=Senate",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SR 42"
+}

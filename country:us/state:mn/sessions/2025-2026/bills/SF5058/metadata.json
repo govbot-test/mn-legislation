@@ -90,6 +90,7 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-15T13:26:00Z"
+    "logs_latest_update": "2026-07-15T13:26:00Z",
+    "text_extraction_latest_update": "2026-07-15T16:48:10.457390Z"
   }
 }

@@ -59,15 +59,35 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:25Z"
       }
+    },
+    {
+      "description": "Author changed Johnson, P., be shown as Chief Author",
+      "date": "2026-04-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
+    },
+    {
+      "description": "Author stricken Stephenson",
+      "date": "2026-04-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Stephenson",
+      "name": "Johnson, P.",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Stephenson\"}",
+      "person_id": "~{\"name\": \"Johnson, P.\"}",
       "organization_id": null
     },
     {
@@ -76,14 +96,6 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Zeleznikar\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Johnson, P.",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Johnson, P.\"}",
       "organization_id": null
     },
     {
@@ -127,7 +139,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2703?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2703?list=open&body=House",
       "note": ""
     }
   ],
@@ -139,7 +151,7 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:25Z",
+    "logs_latest_update": "2026-07-15T13:25:59Z",
     "text_extraction_latest_update": "2026-07-13T15:42:32.042599Z"
   }
 }

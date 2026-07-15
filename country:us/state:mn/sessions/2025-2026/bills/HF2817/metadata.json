@@ -41,6 +41,16 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:24Z"
       }
+    },
+    {
+      "description": "Author added Curran, Youakim, and Witte",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:26:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -203,6 +213,30 @@
       "primary": false,
       "person_id": "~{\"name\": \"Rehrauer\"}",
       "organization_id": null
+    },
+    {
+      "name": "Curran",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Curran\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Youakim",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Youakim\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Witte",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Witte\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -229,7 +263,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2817?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2817?list=open&body=House",
       "note": ""
     }
   ],
@@ -241,7 +275,7 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:24Z",
+    "logs_latest_update": "2026-07-15T13:26:00Z",
     "text_extraction_latest_update": "2026-07-13T09:47:25.997315Z"
   }
 }

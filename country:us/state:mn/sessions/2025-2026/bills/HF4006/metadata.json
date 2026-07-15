@@ -31,6 +31,112 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:20Z"
       }
+    },
+    {
+      "description": "Committee report, to adopt and re-refer to Ways and Means",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:26:00Z"
+      }
+    },
+    {
+      "description": "Committee report, to adopt",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:26:00Z"
+      }
+    },
+    {
+      "description": "Second reading",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:26:00Z"
+      }
+    },
+    {
+      "description": "House rule 1.21, placed on Calendar for the Day Monday, May 4, 2026",
+      "date": "2026-04-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:26:00Z"
+      }
+    },
+    {
+      "description": "Third reading",
+      "date": "2026-05-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:26:00Z"
+      }
+    },
+    {
+      "description": "Bill was passed",
+      "date": "2026-05-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:26:00Z"
+      }
+    },
+    {
+      "description": "Received from House",
+      "date": "2026-05-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:26:00Z"
+      }
+    },
+    {
+      "description": "Introduction and first reading",
+      "date": "2026-05-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:26:00Z"
+      }
+    },
+    {
+      "description": "Referred to Finance",
+      "date": "2026-05-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:26:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -40,6 +146,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Warwas\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Farnsworth",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Farnsworth\"}",
       "organization_id": null
     }
   ],
@@ -67,7 +181,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4006?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4006?list=open&body=House",
       "note": ""
     }
   ],
@@ -79,7 +193,7 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:20Z",
+    "logs_latest_update": "2026-07-15T13:26:00Z",
     "text_extraction_latest_update": "2026-07-13T10:59:18.380886Z"
   }
 }

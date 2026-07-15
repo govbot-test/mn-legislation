@@ -1,15 +1,14 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "HF 3230",
-  "title": "Public safety radio and crime victims account established, report required, and money appropriated.",
+  "title": "Capitol complex security provisions modified, database of emergency contact information of elected officials created, security and protective services provided for members of the legislature, Security Services Task Force created, reports required, and money appropriated.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "Appropriations",
-    "Public Safety Department",
-    "Television and Radio"
+    "Legislature",
+    "Public Safety Department"
   ],
   "abstracts": [],
   "other_titles": [],
@@ -41,6 +40,112 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:21Z"
       }
+    },
+    {
+      "description": "Author added Wolgamott",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
+    },
+    {
+      "description": "Author added Norris",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
+    },
+    {
+      "description": "Author added Rehrauer",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
+    },
+    {
+      "description": "Author stricken Norris",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
+    },
+    {
+      "description": "Motion to recall and re-refer, motion prevailed Ways and Means",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
+    },
+    {
+      "description": "Committee report, to adopt as amended",
+      "date": "2026-04-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
+    },
+    {
+      "description": "Second reading",
+      "date": "2026-04-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
+    },
+    {
+      "description": "Referred to Chief Clerk for comparison with SF3432",
+      "date": "2026-04-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
+    },
+    {
+      "description": "Bills not identical, SF substituted on General Register",
+      "date": "2026-04-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
+    },
+    {
+      "description": "HF indefinitely postponed",
+      "date": "2026-04-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -67,6 +172,22 @@
       "primary": false,
       "person_id": "~{\"name\": \"Virnig\"}",
       "organization_id": null
+    },
+    {
+      "name": "Wolgamott",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Wolgamott\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rehrauer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rehrauer\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -87,13 +208,24 @@
       ],
       "date": "2025-04-22",
       "classification": ""
+    },
+    {
+      "note": "1st Engrossment",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/3230/versions/1/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-04-28",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/3230?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/3230?list=open&body=House",
       "note": ""
     }
   ],
@@ -105,7 +237,7 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:21Z",
+    "logs_latest_update": "2026-07-15T13:25:59Z",
     "text_extraction_latest_update": "2026-07-13T10:14:31.055217Z"
   }
 }

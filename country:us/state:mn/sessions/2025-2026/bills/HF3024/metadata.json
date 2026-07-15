@@ -41,6 +41,50 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:19Z"
       }
+    },
+    {
+      "description": "Author added Tabke",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:26:00Z"
+      }
+    },
+    {
+      "description": "Committee report, to adopt as amended",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:26:00Z"
+      }
+    },
+    {
+      "description": "Second reading",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:26:00Z"
+      }
+    },
+    {
+      "description": "House rule 1.21, placed on Calendar for the Day Saturday, May 16, 2026",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:26:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -58,6 +102,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Lee, X.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tabke",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tabke\"}",
       "organization_id": null
     }
   ],
@@ -79,13 +131,24 @@
       ],
       "date": "2025-04-01",
       "classification": ""
+    },
+    {
+      "note": "1st Engrossment",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/3024/versions/1/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-04-07",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/3024?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/3024?list=open&body=House",
       "note": ""
     }
   ],
@@ -97,7 +160,7 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:19Z",
+    "logs_latest_update": "2026-07-15T13:26:00Z",
     "text_extraction_latest_update": "2026-07-13T13:12:29.258105Z"
   }
 }

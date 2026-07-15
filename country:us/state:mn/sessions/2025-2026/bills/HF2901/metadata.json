@@ -59,6 +59,16 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:21Z"
       }
+    },
+    {
+      "description": "Author added Elkins",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:26:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -117,6 +127,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Johnson, W.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Elkins",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Elkins\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -143,7 +161,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2901?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2901?list=open&body=House",
       "note": ""
     }
   ],
@@ -155,7 +173,7 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:21Z",
+    "logs_latest_update": "2026-07-15T13:26:00Z",
     "text_extraction_latest_update": "2026-07-13T09:26:30.193329Z"
   }
 }

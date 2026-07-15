@@ -6,7 +6,11 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "Appropriations",
+    "Education-School Districts",
+    "Insurance-Health"
+  ],
   "abstracts": [],
   "other_titles": [],
   "other_identifiers": [
@@ -47,6 +51,26 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:23Z"
       }
+    },
+    {
+      "description": "Authors added Johnson, P.; and Virnig",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:26:00Z"
+      }
+    },
+    {
+      "description": "Author added Rehm",
+      "date": "2026-04-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:26:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -81,6 +105,30 @@
       "primary": false,
       "person_id": "~{\"name\": \"Davids\"}",
       "organization_id": null
+    },
+    {
+      "name": "Johnson, P.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Johnson, P.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Virnig",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Virnig\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rehm",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rehm\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -101,7 +149,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4472?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4472?list=open&body=House",
       "note": ""
     }
   ],
@@ -113,7 +161,7 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:23Z",
+    "logs_latest_update": "2026-07-15T13:26:00Z",
     "text_extraction_latest_update": "2026-07-13T15:27:22.048251Z"
   }
 }

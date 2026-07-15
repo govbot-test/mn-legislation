@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "HF 1082",
-  "title": "Minnesota victims of crime account established, grants provided to crime victim service providers, fees and penalties for deposit in account increased, and money transferred from general fund to account.",
+  "title": "Public safety; time extended to use appropriations; public safety officer and survivor benefits provided; sale or transfer of law enforcement vehicle, assault of hospital or clinic security guard, and grooming prohibited; crimes of impersonating a peace officer and theft modified; task forces and grant program established; MINNCOR policies modified; domestic violence case process modified; personal information protections provided to public safety officers; criminal penalties provided; reports required; and money appropriated.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -114,6 +114,216 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:23Z"
       }
+    },
+    {
+      "description": "Author added Kozlowski",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
+    },
+    {
+      "description": "Authors added Rehm, Berg, and Tabke",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
+    },
+    {
+      "description": "Committee report, to adopt as amended and re-refer to Ways and Means",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
+    },
+    {
+      "description": "Author added Novotny",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
+    },
+    {
+      "description": "Committee report, to adopt as amended",
+      "date": "2026-04-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
+    },
+    {
+      "description": "Second reading",
+      "date": "2026-04-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
+    },
+    {
+      "description": "House rule 1.21, placed on Calendar for the Day Monday, May 4, 2026",
+      "date": "2026-04-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-05-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
+    },
+    {
+      "description": "Third reading as amended",
+      "date": "2026-05-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
+    },
+    {
+      "description": "Bill was passed as amended",
+      "date": "2026-05-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
+    },
+    {
+      "description": "Author added Repinski",
+      "date": "2026-05-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
+    },
+    {
+      "description": "Received from House",
+      "date": "2026-05-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
+    },
+    {
+      "description": "Introduction and first reading",
+      "date": "2026-05-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
+    },
+    {
+      "description": "Laid on table",
+      "date": "2026-05-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
+    },
+    {
+      "description": "Taken from table",
+      "date": "2026-05-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
+    },
+    {
+      "description": "Second reading",
+      "date": "2026-05-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
+    },
+    {
+      "description": "Laid on table",
+      "date": "2026-05-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
+    },
+    {
+      "description": "Taken from table",
+      "date": "2026-05-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
+    },
+    {
+      "description": "Referred to Finance",
+      "date": "2026-05-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -212,6 +422,62 @@
       "primary": false,
       "person_id": "~{\"name\": \"Frazier\"}",
       "organization_id": null
+    },
+    {
+      "name": "Kozlowski",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kozlowski\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rehm",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rehm\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Berg",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Berg\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tabke",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tabke\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Novotny",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Novotny\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Repinski",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Repinski\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Oumou Verbeten",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Oumou Verbeten\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -254,13 +520,46 @@
       ],
       "date": "2025-03-27",
       "classification": ""
+    },
+    {
+      "note": "3rd Engrossment",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/1082/versions/3/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-04-22",
+      "classification": ""
+    },
+    {
+      "note": "4th Engrossment",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/1082/versions/4/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-04-28",
+      "classification": ""
+    },
+    {
+      "note": "5th Engrossment",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/1082/versions/5/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-05-05",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/1082?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/1082?list=open&body=House",
       "note": ""
     }
   ],
@@ -272,7 +571,7 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:23Z",
+    "logs_latest_update": "2026-07-15T13:25:59Z",
     "text_extraction_latest_update": "2026-07-13T11:56:29.690195Z"
   }
 }

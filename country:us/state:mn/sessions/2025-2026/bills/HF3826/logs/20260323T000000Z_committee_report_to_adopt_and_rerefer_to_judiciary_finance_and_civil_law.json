@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Committee report, to adopt and re-refer to Judiciary Finance and Civil Law",
+    "occurred_at": "2026-03-23",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3826?list=open&body=House",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HF 3826"
+}

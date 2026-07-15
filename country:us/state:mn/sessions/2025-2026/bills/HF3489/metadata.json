@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "HF 3489",
-  "title": "Field trip policy established, reporting to licensing boards required, and criminal offense of grooming established.",
+  "title": "Licensing boards reporting required, criminal offense of grooming established, criminal penalties provided, and money appropriated.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -64,6 +64,340 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:22Z"
       }
+    },
+    {
+      "description": "Committee report, to adopt as amended and re-refer to Children and Families Finance and Policy",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
+    },
+    {
+      "description": "Author added Witte",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
+    },
+    {
+      "description": "Committee report, to adopt as amended and re-refer to Education Finance",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
+    },
+    {
+      "description": "Author added Virnig",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
+    },
+    {
+      "description": "Authors added Clardy and Jordan",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
+    },
+    {
+      "description": "Committee report, to adopt and re-refer to Ways and Means",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
+    },
+    {
+      "description": "Author added Reyer",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
+    },
+    {
+      "description": "Committee report, to adopt as amended",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
+    },
+    {
+      "description": "Second reading",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
+    },
+    {
+      "description": "House rule 1.21, placed on Calendar for the Day 04/27/2026",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
+    },
+    {
+      "description": "Third reading",
+      "date": "2026-04-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
+    },
+    {
+      "description": "Bill was passed",
+      "date": "2026-04-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
+    },
+    {
+      "description": "Returned from Senate with amendment",
+      "date": "2026-05-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
+    },
+    {
+      "description": "Motion to concur with Senate amendments",
+      "date": "2026-05-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
+    },
+    {
+      "description": "Motion prevailed",
+      "date": "2026-05-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
+    },
+    {
+      "description": "Third reading as amended by the Senate",
+      "date": "2026-05-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
+    },
+    {
+      "description": "Bill was repassed as amended by the Senate",
+      "date": "2026-05-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
+    },
+    {
+      "description": "Presented to Governor 05/20/2026",
+      "date": "2026-05-20",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
+    },
+    {
+      "description": "Governor approval 05/27/2026",
+      "date": "2026-05-27",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
+    },
+    {
+      "description": "Secretary of State, Filed 05/27/2026",
+      "date": "2026-05-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
+    },
+    {
+      "description": "Received from House",
+      "date": "2026-04-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
+    },
+    {
+      "description": "Introduction and first reading",
+      "date": "2026-04-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
+    },
+    {
+      "description": "Referred to Finance",
+      "date": "2026-04-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
+    },
+    {
+      "description": "Comm report: To pass as amended",
+      "date": "2026-05-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
+    },
+    {
+      "description": "Second reading",
+      "date": "2026-05-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
+    },
+    {
+      "description": "Special Order: Amended",
+      "date": "2026-05-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
+    },
+    {
+      "description": "Third reading Passed as amended",
+      "date": "2026-05-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
+    },
+    {
+      "description": "Presentment date 05/20/26",
+      "date": "2026-05-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
+    },
+    {
+      "description": "Governor's action Approval 05/27/26",
+      "date": "2026-05-27",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
+    },
+    {
+      "description": "Secretary of State Chapter 108 05/27/26",
+      "date": "2026-05-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -106,6 +440,54 @@
       "primary": false,
       "person_id": "~{\"name\": \"Mueller\"}",
       "organization_id": null
+    },
+    {
+      "name": "Witte",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Witte\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Virnig",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Virnig\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Clardy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Clardy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jordan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jordan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Reyer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Reyer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Maye Quade",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Maye Quade\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -137,13 +519,168 @@
       ],
       "date": "2026-03-05",
       "classification": ""
+    },
+    {
+      "note": "2nd Engrossment",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3489/versions/2/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-03-16",
+      "classification": ""
+    },
+    {
+      "note": "3rd Engrossment",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3489/versions/3/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-03-23",
+      "classification": ""
+    },
+    {
+      "note": "4th Engrossment",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3489/versions/4/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-04-22",
+      "classification": ""
+    },
+    {
+      "note": "5th Engrossment",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3489/versions/5/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-05-16",
+      "classification": ""
+    },
+    {
+      "note": "1st Unofficial Engrossment",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3489/versions/ue/1/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-05-14",
+      "classification": ""
+    },
+    {
+      "note": "2nd Unofficial Engrossment",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3489/versions/ue/2/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-05-15",
+      "classification": ""
     }
   ],
   "documents": [],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "Minnesota Session Laws - 2026 Regular Session",
+      "citation": "Chapter 108",
+      "citation_type": "chapter",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2026/0/Session+Law/Chapter/108/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 122A.20 subdivision 1",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2026/0/Session+Law/Chapter/108/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 122A.20 subdivision 2",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2026/0/Session+Law/Chapter/108/"
+    },
+    {
+      "publication": "Minnesota Statutes 2025 Supplement",
+      "citation": "section 260E.065",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2026/0/Session+Law/Chapter/108/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 260E.15",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2026/0/Session+Law/Chapter/108/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 609.352 subdivision 1",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2026/0/Session+Law/Chapter/108/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 609.352",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2026/0/Session+Law/Chapter/108/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 609.352",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2026/0/Session+Law/Chapter/108/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 609.352",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2026/0/Session+Law/Chapter/108/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 609.352 subdivision 4",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2026/0/Session+Law/Chapter/108/"
+    },
+    {
+      "publication": "Laws 2025",
+      "citation": "First Special Session chapter 10 article 12 section 8",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2026/0/Session+Law/Chapter/108/"
+    }
+  ],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3489?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3489?list=open&body=House",
       "note": ""
     }
   ],
@@ -155,7 +692,7 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:22Z",
+    "logs_latest_update": "2026-07-15T13:25:59Z",
     "text_extraction_latest_update": "2026-07-13T09:12:36.265633Z"
   }
 }

@@ -7,7 +7,6 @@
     "bill"
   ],
   "subject": [
-    "Appropriations",
     "Bonds",
     "Cities and Towns-Specific",
     "Highways, Roads, and Bridges"
@@ -32,6 +31,16 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:20Z"
       }
+    },
+    {
+      "description": "Authors added Anderson, P. E., and Koznick",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -49,6 +58,22 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Lee, F.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Anderson, P. E.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Anderson, P. E.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Koznick",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Koznick\"}",
       "organization_id": null
     }
   ],
@@ -76,7 +101,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3373?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3373?list=open&body=House",
       "note": ""
     }
   ],
@@ -88,7 +113,7 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:20Z",
+    "logs_latest_update": "2026-07-15T13:25:59Z",
     "text_extraction_latest_update": "2026-07-13T14:34:24.718841Z"
   }
 }

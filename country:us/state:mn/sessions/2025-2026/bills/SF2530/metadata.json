@@ -105,6 +105,16 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:19Z"
       }
+    },
+    {
+      "description": "Author added Johnson Stewart",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -114,6 +124,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Hauschild\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Johnson Stewart",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Johnson Stewart\"}",
       "organization_id": null
     }
   ],
@@ -163,7 +181,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2530?body=Senate",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2530?list=open&body=Senate",
       "note": ""
     }
   ],
@@ -175,7 +193,7 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:19Z",
+    "logs_latest_update": "2026-07-15T13:25:59Z",
     "text_extraction_latest_update": "2026-07-13T12:48:27.635826Z"
   }
 }

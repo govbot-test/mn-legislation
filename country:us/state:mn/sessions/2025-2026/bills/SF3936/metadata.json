@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "SF 3936",
-  "title": "Reinsurance assessment authority extension provision",
+  "title": "Reinsurance assessment authority extension provision and commissioner of commerce application for a waiver continuation requirement provision",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -41,6 +41,19 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T06:06:19Z"
+      }
+    },
+    {
+      "description": "Comm report: To pass as amended and re-refer to Taxes",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:26:00Z"
       }
     }
   ],
@@ -104,13 +117,24 @@
       ],
       "date": "2026-02-25",
       "classification": ""
+    },
+    {
+      "note": "1st Engrossment",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/3936/versions/1/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-04-07",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/3936?body=Senate",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/3936?list=open&body=Senate",
       "note": ""
     }
   ],
@@ -122,7 +146,7 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:19Z",
+    "logs_latest_update": "2026-07-15T13:26:00Z",
     "text_extraction_latest_update": "2026-07-13T14:36:26.613984Z"
   }
 }

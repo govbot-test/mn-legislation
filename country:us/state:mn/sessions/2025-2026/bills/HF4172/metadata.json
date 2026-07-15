@@ -6,7 +6,10 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "Legislature",
+    "State Officials"
+  ],
   "abstracts": [],
   "other_titles": [],
   "other_identifiers": [
@@ -26,6 +29,28 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T06:06:20Z"
+      }
+    },
+    {
+      "description": "Author added Youakim",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:26:00Z"
+      }
+    },
+    {
+      "description": "Committee report, to adopt and re-refer to Rules and Legislative Administration",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:26:00Z"
       }
     }
   ],
@@ -181,6 +206,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Carroll\"}",
       "organization_id": null
+    },
+    {
+      "name": "Youakim",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Youakim\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -207,7 +240,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4172?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4172?list=open&body=House",
       "note": ""
     }
   ],
@@ -219,7 +252,7 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:20Z",
+    "logs_latest_update": "2026-07-15T13:26:00Z",
     "text_extraction_latest_update": "2026-07-13T15:26:53.414922Z"
   }
 }

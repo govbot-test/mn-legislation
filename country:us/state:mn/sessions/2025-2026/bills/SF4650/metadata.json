@@ -1,12 +1,15 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "SF 4650",
-  "title": "Establish a subtraction income earned by senior taxpayers",
+  "title": "Individual income tax subtraction for income earned by senior taxpayers established",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "Senior Citizens",
+    "Taxation"
+  ],
   "abstracts": [],
   "other_titles": [],
   "other_identifiers": [
@@ -38,6 +41,16 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:24Z"
       }
+    },
+    {
+      "description": "Author added Koran",
+      "date": "2026-04-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -63,6 +76,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Howe\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Koran",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Koran\"}",
       "organization_id": null
     }
   ],
@@ -90,7 +111,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4650?body=Senate",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4650?list=open&body=Senate",
       "note": ""
     }
   ],
@@ -102,7 +123,7 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:24Z",
+    "logs_latest_update": "2026-07-15T13:25:59Z",
     "text_extraction_latest_update": "2026-07-13T13:45:43.949051Z"
   }
 }

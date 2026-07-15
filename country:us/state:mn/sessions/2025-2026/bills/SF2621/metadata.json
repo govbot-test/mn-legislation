@@ -89,6 +89,19 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:26Z"
       }
+    },
+    {
+      "description": "Comm report: To pass as amended and re-refer to Taxes",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:26:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -143,13 +156,35 @@
       ],
       "date": "2025-03-13",
       "classification": ""
+    },
+    {
+      "note": "1st Engrossment",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2621/versions/1/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-03-12",
+      "classification": ""
+    },
+    {
+      "note": "2nd Engrossment",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2621/versions/2/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-03-25",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2621?body=Senate",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2621?list=open&body=Senate",
       "note": ""
     }
   ],
@@ -161,7 +196,7 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:26Z",
+    "logs_latest_update": "2026-07-15T13:26:00Z",
     "text_extraction_latest_update": "2026-07-13T14:27:06.545478Z"
   }
 }

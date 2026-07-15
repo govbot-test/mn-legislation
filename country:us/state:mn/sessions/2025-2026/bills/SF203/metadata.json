@@ -1,14 +1,15 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "SF 203",
-  "title": "Housing infrastructure bonds issuance authorization and appropriation",
+  "title": "Omnibus Housing bill",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "Bonds",
-    "Housing and Housing Finance Agency"
+    "Appropriations-Omnibus Bills",
+    "Housing and Housing Finance Agency",
+    "Omnibus"
   ],
   "abstracts": [],
   "other_titles": [],
@@ -40,6 +41,63 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T06:06:25Z"
+      }
+    },
+    {
+      "description": "Comm report: To pass as amended and re-refer to Finance",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
+    },
+    {
+      "description": "Comm report: To pass as amended",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
+    },
+    {
+      "description": "Second reading",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
+    },
+    {
+      "description": "Rule 45-amend, subst. General Orders HF1141, SF indefinitely postponed",
+      "date": "2026-05-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
+    },
+    {
+      "description": "Author added Champion",
+      "date": "2026-05-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
       }
     }
   ],
@@ -75,6 +133,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Mohamed\"}",
       "organization_id": null
+    },
+    {
+      "name": "Champion",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Champion\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -95,13 +161,35 @@
       ],
       "date": "2025-01-15",
       "classification": ""
+    },
+    {
+      "note": "1st Engrossment",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/203/versions/1/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-04-16",
+      "classification": ""
+    },
+    {
+      "note": "2nd Engrossment",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/203/versions/2/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-04-22",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/203?body=Senate",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/203?list=open&body=Senate",
       "note": ""
     }
   ],
@@ -113,7 +201,7 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:25Z",
+    "logs_latest_update": "2026-07-15T13:25:59Z",
     "text_extraction_latest_update": "2026-07-13T14:25:06.324016Z"
   }
 }

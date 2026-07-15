@@ -1,15 +1,14 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "SF 3988",
-  "title": "Various transportation-related provisions modifications",
+  "title": "Omnibus Transportation policy and supplemental appropriations",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "Airports and Aircraft",
-    "Highways, Roads, and Bridges",
-    "Railroads, Rail Lines, and LRT",
+    "Appropriations-Omnibus Bills",
+    "Omnibus",
     "Transportation and Transportation Department"
   ],
   "abstracts": [],
@@ -53,6 +52,29 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:21Z"
       }
+    },
+    {
+      "description": "Comm report: To pass as amended and re-refer to Finance",
+      "date": "2026-04-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
+    },
+    {
+      "description": "Author stricken Nelson",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -70,14 +92,6 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Johnson Stewart\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Nelson",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Nelson\"}",
       "organization_id": null
     }
   ],
@@ -99,13 +113,24 @@
       ],
       "date": "2026-02-25",
       "classification": ""
+    },
+    {
+      "note": "1st Engrossment",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/3988/versions/1/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-04-20",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/3988?body=Senate",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/3988?list=open&body=Senate",
       "note": ""
     }
   ],
@@ -117,7 +142,7 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:21Z",
+    "logs_latest_update": "2026-07-15T13:25:59Z",
     "text_extraction_latest_update": "2026-07-13T12:31:52.282927Z"
   }
 }

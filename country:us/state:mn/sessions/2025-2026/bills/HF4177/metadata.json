@@ -6,7 +6,10 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "Appropriations",
+    "Public Safety Department"
+  ],
   "abstracts": [],
   "other_titles": [],
   "other_identifiers": [
@@ -26,6 +29,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T06:06:23Z"
+      }
+    },
+    {
+      "description": "Author added Curran",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
       }
     }
   ],
@@ -77,6 +90,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Greenman\"}",
       "organization_id": null
+    },
+    {
+      "name": "Curran",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Curran\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -103,7 +124,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4177?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4177?list=open&body=House",
       "note": ""
     }
   ],
@@ -115,7 +136,7 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:23Z",
+    "logs_latest_update": "2026-07-15T13:25:59Z",
     "text_extraction_latest_update": "2026-07-13T12:02:45.930935Z"
   }
 }

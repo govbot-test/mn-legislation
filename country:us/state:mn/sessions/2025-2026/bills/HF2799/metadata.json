@@ -7,7 +7,6 @@
     "bill"
   ],
   "subject": [
-    "Appropriations",
     "Human Services and Human Services Department"
   ],
   "abstracts": [],
@@ -49,6 +48,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T06:06:23Z"
+      }
+    },
+    {
+      "description": "Author added Repinski",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
       }
     }
   ],
@@ -100,6 +109,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Keeler\"}",
       "organization_id": null
+    },
+    {
+      "name": "Repinski",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Repinski\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -126,7 +143,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2799?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2799?list=open&body=House",
       "note": ""
     }
   ],
@@ -138,7 +155,7 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:23Z",
+    "logs_latest_update": "2026-07-15T13:25:59Z",
     "text_extraction_latest_update": "2026-07-13T13:34:04.043474Z"
   }
 }

@@ -1,12 +1,13 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "HF 3809",
-  "title": "Requirements in an expedited eviction process modified.",
+  "title": "Listing a minor as a defendant prohibited in an eviction action, and expedited eviction process requirements modified.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
+    "Children and Minors",
     "Housing and Housing Finance Agency",
     "Landlords and Tenants"
   ],
@@ -29,6 +30,40 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T06:06:23Z"
+      }
+    },
+    {
+      "description": "Committee report, to adopt and re-refer to Judiciary Finance and Civil Law",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:26:00Z"
+      }
+    },
+    {
+      "description": "Committee report, to adopt",
+      "date": "2026-04-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:26:00Z"
+      }
+    },
+    {
+      "description": "Joint rule 2.03, Deadlines, re-referred to Rules and Legislative Administration",
+      "date": "2026-04-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:26:00Z"
       }
     }
   ],
@@ -82,7 +117,13 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "SF 4537",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduction",
@@ -94,13 +135,24 @@
       ],
       "date": "2026-02-26",
       "classification": ""
+    },
+    {
+      "note": "1st Engrossment",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3809/versions/1/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-04-15",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3809?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3809?list=open&body=House",
       "note": ""
     }
   ],
@@ -112,7 +164,7 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:23Z",
+    "logs_latest_update": "2026-07-15T13:26:00Z",
     "text_extraction_latest_update": "2026-07-13T10:13:48.790011Z"
   }
 }

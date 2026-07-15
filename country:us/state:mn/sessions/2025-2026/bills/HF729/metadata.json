@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "HF 729",
-  "title": "Medical assistance services expanded to include coverage of care evaluations; medical assistance rates modified for homemaker services, home health agency services, and home care nursing services; home care preceptor grant program established; report required; and money appropriated.",
+  "title": "Human services; various provisions modified relating to Direct Care and Treatment, the Department of Health, health care, medical assistance provider enrollment, aging and disability services, behavioral health, homelessness, housing, and maltreatment of vulnerable adults; housing stabilization supports provisions removed; rulemaking required; release of initial Optum reports required; Optum prohibited from disseminating private data; reports required; and money appropriated.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -93,6 +93,28 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:25Z"
       }
+    },
+    {
+      "description": "Author stricken Greene",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:26:00Z"
+      }
+    },
+    {
+      "description": "Committee report, to adopt as amended and re-refer to Ways and Means",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:26:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -118,14 +140,6 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Hansen, R.\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Greene",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Greene\"}",
       "organization_id": null
     },
     {
@@ -190,13 +204,24 @@
       ],
       "date": "2025-04-07",
       "classification": ""
+    },
+    {
+      "note": "2nd Engrossment",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/729/versions/2/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-04-07",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/729?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/729?list=open&body=House",
       "note": ""
     }
   ],
@@ -208,7 +233,7 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:25Z",
+    "logs_latest_update": "2026-07-15T13:26:00Z",
     "text_extraction_latest_update": "2026-07-13T11:12:25.267193Z"
   }
 }

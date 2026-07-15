@@ -7,7 +7,6 @@
     "bill"
   ],
   "subject": [
-    "Appropriations",
     "Bonds",
     "Cities and Towns-Specific",
     "Public Facilities Authority",
@@ -44,14 +43,42 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:19Z"
       }
+    },
+    {
+      "description": "Chief author stricken, shown as co-author Farnsworth",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
+    },
+    {
+      "description": "Chief author added Wesenberg",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Farnsworth",
+      "name": "Wesenberg",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
+      "person_id": "~{\"name\": \"Wesenberg\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Farnsworth",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
       "person_id": "~{\"name\": \"Farnsworth\"}",
       "organization_id": null
     }
@@ -80,7 +107,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2982?body=Senate",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2982?list=open&body=Senate",
       "note": ""
     }
   ],
@@ -92,7 +119,7 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:19Z",
+    "logs_latest_update": "2026-07-15T13:25:59Z",
     "text_extraction_latest_update": "2026-07-13T13:59:24.676497Z"
   }
 }

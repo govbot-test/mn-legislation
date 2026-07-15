@@ -30,6 +30,16 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:22Z"
       }
+    },
+    {
+      "description": "Author added Bakeberg",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:26:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -40,9 +50,23 @@
       "primary": true,
       "person_id": "~{\"name\": \"Torkelson\"}",
       "organization_id": null
+    },
+    {
+      "name": "Bakeberg",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bakeberg\"}",
+      "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "SF 4469",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduction",
@@ -60,7 +84,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3993?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3993?list=open&body=House",
       "note": ""
     }
   ],
@@ -72,7 +96,7 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:22Z",
+    "logs_latest_update": "2026-07-15T13:26:00Z",
     "text_extraction_latest_update": "2026-07-13T13:46:02.952639Z"
   }
 }

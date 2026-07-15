@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduction and first reading",
+    "occurred_at": "2026-04-27",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/5213?list=open&body=Senate",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SF 5213"
+}

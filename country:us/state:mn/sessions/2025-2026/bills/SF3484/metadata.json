@@ -1,14 +1,15 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "SF 3484",
-  "title": "Minnesota partnership for long-term care program partnership policy definition expansion",
+  "title": "Long-term care partnership policies inflation protection modifications",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "Health and Health Department",
-    "Human Services and Human Services Department"
+    "Commerce and Commerce Department",
+    "Human Services and Human Services Department",
+    "Insurance-Health"
   ],
   "abstracts": [],
   "other_titles": [],
@@ -51,6 +52,39 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:20Z"
       }
+    },
+    {
+      "description": "Comm report: To pass as amended and re-refer to Commerce and Consumer Protection",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:26:00Z"
+      }
+    },
+    {
+      "description": "Author added Gruenhagen",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:26:00Z"
+      }
+    },
+    {
+      "description": "Author added Abeler",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:26:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -68,6 +102,22 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Rasmusson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gruenhagen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gruenhagen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Abeler",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Abeler\"}",
       "organization_id": null
     }
   ],
@@ -89,13 +139,24 @@
       ],
       "date": "2025-05-02",
       "classification": ""
+    },
+    {
+      "note": "1st Engrossment",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/3484/versions/1/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-03-17",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/3484?body=Senate",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/3484?list=open&body=Senate",
       "note": ""
     }
   ],
@@ -107,7 +168,7 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:20Z",
+    "logs_latest_update": "2026-07-15T13:26:00Z",
     "text_extraction_latest_update": "2026-07-13T09:12:17.630783Z"
   }
 }

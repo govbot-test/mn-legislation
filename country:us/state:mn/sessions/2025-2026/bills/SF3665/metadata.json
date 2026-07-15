@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "SF 3665",
-  "title": "Unemployment insurance judges and paid leave judges designation as judicial officials provision",
+  "title": "Unemployment insurance judges and paid leave judges designation as judicial officials provision and unemployment insurance judges and paid leave appeals judges exclusion from protections related to personal information in real property records provision",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -42,6 +42,30 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:20Z"
       }
+    },
+    {
+      "description": "Comm report: To pass as amended",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:26:00Z"
+      }
+    },
+    {
+      "description": "Second reading",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:26:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -72,13 +96,24 @@
       ],
       "date": "2026-02-17",
       "classification": ""
+    },
+    {
+      "note": "1st Engrossment",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/3665/versions/1/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-03-23",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/3665?body=Senate",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/3665?list=open&body=Senate",
       "note": ""
     }
   ],
@@ -90,7 +125,7 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:20Z",
+    "logs_latest_update": "2026-07-15T13:26:00Z",
     "text_extraction_latest_update": "2026-07-13T09:38:12.051978Z"
   }
 }

@@ -1,14 +1,15 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "SF 239",
-  "title": "Cell-cultured meat and cell-cultured poultry definition",
+  "title": "Cell-cultured food definition establishment and food labels identification products containing cell-cultured food requirement provision",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
     "Agriculture and Agriculture Department",
-    "Consumer Protection"
+    "Consumer Protection",
+    "Food and Nutrition"
   ],
   "abstracts": [],
   "other_titles": [],
@@ -41,6 +42,30 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:22Z"
       }
+    },
+    {
+      "description": "Comm report: To pass as amended",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:26:00Z"
+      }
+    },
+    {
+      "description": "Second reading",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:26:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -71,13 +96,24 @@
       ],
       "date": "2025-01-15",
       "classification": ""
+    },
+    {
+      "note": "1st Engrossment",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/239/versions/1/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-03-17",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/239?body=Senate",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/239?list=open&body=Senate",
       "note": ""
     }
   ],
@@ -89,7 +125,7 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:22Z",
+    "logs_latest_update": "2026-07-15T13:26:00Z",
     "text_extraction_latest_update": "2026-07-13T13:32:40.331664Z"
   }
 }

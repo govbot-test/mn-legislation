@@ -6,7 +6,10 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "Health and Health Department",
+    "Human Services and Human Services Department"
+  ],
   "abstracts": [],
   "other_titles": [],
   "other_identifiers": [
@@ -60,6 +63,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T06:06:20Z"
+      }
+    },
+    {
+      "description": "House rule 1.21, placed on Calendar for the Day Monday, April 20, 2026",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:26:00Z"
       }
     }
   ],
@@ -116,7 +129,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4467?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4467?list=open&body=House",
       "note": ""
     }
   ],
@@ -128,7 +141,7 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:20Z",
+    "logs_latest_update": "2026-07-15T13:26:00Z",
     "text_extraction_latest_update": "2026-07-13T09:32:13.864732Z"
   }
 }

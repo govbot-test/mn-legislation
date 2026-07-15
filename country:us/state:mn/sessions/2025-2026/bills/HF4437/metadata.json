@@ -1,12 +1,15 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "HF 4437",
-  "title": "Wagers and other activities regarding prediction markets prohibited.",
+  "title": "Wagers and other activities regarding prediction markets prohibited, criminal convictions made a disqualification for receiving a lawful gambling license, and criminal penalties provided.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "Gambling",
+    "Public Safety Department"
+  ],
   "abstracts": [],
   "other_titles": [],
   "other_identifiers": [
@@ -26,6 +29,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T06:06:19Z"
+      }
+    },
+    {
+      "description": "Committee report, to adopt as amended and re-refer to Commerce Finance and Policy",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
       }
     }
   ],
@@ -89,13 +104,24 @@
       ],
       "date": "2026-03-17",
       "classification": ""
+    },
+    {
+      "note": "1st Engrossment",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4437/versions/1/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-04-07",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4437?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4437?list=open&body=House",
       "note": ""
     }
   ],
@@ -107,7 +133,7 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:19Z",
+    "logs_latest_update": "2026-07-15T13:25:59Z",
     "text_extraction_latest_update": "2026-07-13T11:24:44.410364Z"
   }
 }

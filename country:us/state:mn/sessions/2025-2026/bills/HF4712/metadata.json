@@ -6,7 +6,11 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "Athletics",
+    "Commerce Department",
+    "Health and Health Department"
+  ],
   "abstracts": [],
   "other_titles": [],
   "other_identifiers": [
@@ -27,6 +31,16 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:22Z"
       }
+    },
+    {
+      "description": "Author added Repinski",
+      "date": "2026-04-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:26:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -36,6 +50,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Schultz\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Repinski",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Repinski\"}",
       "organization_id": null
     }
   ],
@@ -63,7 +85,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4712?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4712?list=open&body=House",
       "note": ""
     }
   ],
@@ -75,7 +97,7 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:22Z",
+    "logs_latest_update": "2026-07-15T13:26:00Z",
     "text_extraction_latest_update": "2026-07-13T11:03:24.229264Z"
   }
 }

@@ -1,12 +1,13 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "SF 3741",
-  "title": "Well testing provision to establish baseline groundwater quality before certain construction",
+  "title": "High-voltage transmission line route permit applicants requirement to consult with the commissioner of natural resources",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
+    "Energy",
     "Environment",
     "Health and Health Department"
   ],
@@ -51,6 +52,29 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:22Z"
       }
+    },
+    {
+      "description": "Comm report: To pass as amended and re-refer to Energy, Utilities, Environment, and Climate",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:26:00Z"
+      }
+    },
+    {
+      "description": "Author added Boldon",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:26:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -68,6 +92,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Hawj\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Boldon",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Boldon\"}",
       "organization_id": null
     }
   ],
@@ -89,13 +121,24 @@
       ],
       "date": "2026-02-19",
       "classification": ""
+    },
+    {
+      "note": "1st Engrossment",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/3741/versions/1/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-03-25",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/3741?body=Senate",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/3741?list=open&body=Senate",
       "note": ""
     }
   ],
@@ -107,7 +150,7 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:22Z",
+    "logs_latest_update": "2026-07-15T13:26:00Z",
     "text_extraction_latest_update": "2026-07-13T11:53:44.018488Z"
   }
 }

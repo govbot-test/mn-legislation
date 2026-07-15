@@ -8,7 +8,6 @@
   ],
   "subject": [
     "Administration Department",
-    "Appropriations",
     "Bonds",
     "Buildings and Building Codes"
   ],
@@ -31,6 +30,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T06:06:22Z"
+      }
+    },
+    {
+      "description": "Committee report, to adopt and re-refer to Ways and Means",
+      "date": "2026-04-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:26:00Z"
       }
     }
   ],
@@ -68,7 +79,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3478?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3478?list=open&body=House",
       "note": ""
     }
   ],
@@ -80,7 +91,7 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:22Z",
+    "logs_latest_update": "2026-07-15T13:26:00Z",
     "text_extraction_latest_update": "2026-07-13T12:30:57.071405Z"
   }
 }

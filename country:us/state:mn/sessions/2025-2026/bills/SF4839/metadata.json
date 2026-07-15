@@ -6,7 +6,11 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "Government-Local",
+    "Government-State",
+    "Pollution and Pollution Control Agency"
+  ],
   "abstracts": [],
   "other_titles": [],
   "other_identifiers": [
@@ -38,6 +42,16 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:19Z"
       }
+    },
+    {
+      "description": "Author added Jasinski",
+      "date": "2026-04-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:26:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -47,6 +61,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Drazkowski\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jasinski",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jasinski\"}",
       "organization_id": null
     }
   ],
@@ -74,7 +96,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4839?body=Senate",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4839?list=open&body=Senate",
       "note": ""
     }
   ],
@@ -86,7 +108,7 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:19Z",
+    "logs_latest_update": "2026-07-15T13:26:00Z",
     "text_extraction_latest_update": "2026-07-13T15:23:42.581101Z"
   }
 }

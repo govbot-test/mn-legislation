@@ -1,13 +1,14 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "HF 1900",
-  "title": "Benefit eligibility offense provisions changed.",
+  "title": "Minnesota Family Investment Program and Supplemental Nutrition Assistance Program benefits restrictions removed for individuals convicted of drug crimes.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
     "Children and Minors",
+    "Crimes and Criminals",
     "Human Services and Human Services Department"
   ],
   "abstracts": [],
@@ -49,6 +50,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T06:06:20Z"
+      }
+    },
+    {
+      "description": "Committee report, to adopt as amended",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
+    },
+    {
+      "description": "Second reading",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
       }
     }
   ],
@@ -96,13 +121,24 @@
       ],
       "date": "2025-03-04",
       "classification": ""
+    },
+    {
+      "note": "1st Engrossment",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/1900/versions/1/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-04-07",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/1900?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/1900?list=open&body=House",
       "note": ""
     }
   ],
@@ -114,7 +150,7 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:20Z",
+    "logs_latest_update": "2026-07-15T13:25:59Z",
     "text_extraction_latest_update": "2026-07-13T12:14:15.739652Z"
   }
 }

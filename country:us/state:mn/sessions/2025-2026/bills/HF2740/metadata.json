@@ -1,13 +1,12 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "HF 2740",
-  "title": "Report on the affordable housing industry required, maximum compliance period for certain low-income tax credit commitment requirements set, commissioner of Minnesota Housing Finance Agency required to identify avenues for potential regulatory relief to affordable housing providers, and money appropriated.",
+  "title": "Report on the affordable housing industry required, maximum compliance period for certain low-income tax credit commitment requirements set, and commissioner of Minnesota Housing Finance Agency required to identify avenues for potential regulatory relief to affordable housing providers.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "Appropriations",
     "Housing and Housing Finance Agency"
   ],
   "abstracts": [],
@@ -40,6 +39,40 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:24Z"
       }
+    },
+    {
+      "description": "Author added Kozlowski",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:26:00Z"
+      }
+    },
+    {
+      "description": "Committee report, to adopt as amended",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:26:00Z"
+      }
+    },
+    {
+      "description": "Second reading",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:26:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -66,6 +99,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Rehrauer\"}",
       "organization_id": null
+    },
+    {
+      "name": "Kozlowski",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kozlowski\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -86,13 +127,24 @@
       ],
       "date": "2025-03-24",
       "classification": ""
+    },
+    {
+      "note": "1st Engrossment",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2740/versions/1/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-04-07",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2740?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2740?list=open&body=House",
       "note": ""
     }
   ],
@@ -104,7 +156,7 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:24Z",
+    "logs_latest_update": "2026-07-15T13:26:00Z",
     "text_extraction_latest_update": "2026-07-13T11:09:49.826305Z"
   }
 }

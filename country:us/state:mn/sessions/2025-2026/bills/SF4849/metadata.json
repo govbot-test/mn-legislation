@@ -6,7 +6,11 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "Commerce and Commerce Department",
+    "Corporations and Partnerships",
+    "Public Utilities and Public Utilities Commission"
+  ],
   "abstracts": [],
   "other_titles": [],
   "other_identifiers": [
@@ -38,6 +42,16 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:25Z"
       }
+    },
+    {
+      "description": "Author added McEwen",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:26:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -64,9 +78,23 @@
       "primary": false,
       "person_id": "~{\"name\": \"Dibble\"}",
       "organization_id": null
+    },
+    {
+      "name": "McEwen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"McEwen\"}",
+      "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "HF 4825",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduction",
@@ -84,7 +112,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4849?body=Senate",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4849?list=open&body=Senate",
       "note": ""
     }
   ],
@@ -96,7 +124,7 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:25Z",
+    "logs_latest_update": "2026-07-15T13:26:00Z",
     "text_extraction_latest_update": "2026-07-13T12:44:43.319642Z"
   }
 }

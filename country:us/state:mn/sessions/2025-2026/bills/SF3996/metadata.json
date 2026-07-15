@@ -1,12 +1,13 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "SF 3996",
-  "title": "Require schools to develop school safety plans",
+  "title": "School safety policies development requirement, School Safety Advisory Council establishment, and Minnesota School Safety Center appropriation",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
+    "Appropriations",
     "Councils",
     "Education and Education Department",
     "Public Safety and Public Safety Department"
@@ -51,6 +52,19 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T06:06:24Z"
+      }
+    },
+    {
+      "description": "Comm report: To pass as amended and re-refer to Judiciary and Public Safety",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:26:00Z"
       }
     }
   ],
@@ -114,13 +128,24 @@
       ],
       "date": "2026-02-26",
       "classification": ""
+    },
+    {
+      "note": "1st Engrossment",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/3996/versions/1/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-03-18",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/3996?body=Senate",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/3996?list=open&body=Senate",
       "note": ""
     }
   ],
@@ -132,7 +157,7 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:24Z",
+    "logs_latest_update": "2026-07-15T13:26:00Z",
     "text_extraction_latest_update": "2026-07-13T10:40:22.948926Z"
   }
 }

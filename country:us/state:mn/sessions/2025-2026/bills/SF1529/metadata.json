@@ -43,6 +43,16 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:20Z"
       }
+    },
+    {
+      "description": "Author added Heintzeman",
+      "date": "2026-04-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:26:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -68,6 +78,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Lucero\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Heintzeman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Heintzeman\"}",
       "organization_id": null
     }
   ],
@@ -95,7 +113,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/1529?body=Senate",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/1529?list=open&body=Senate",
       "note": ""
     }
   ],
@@ -107,7 +125,7 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:20Z",
+    "logs_latest_update": "2026-07-15T13:26:00Z",
     "text_extraction_latest_update": "2026-07-13T10:51:02.888329Z"
   }
 }

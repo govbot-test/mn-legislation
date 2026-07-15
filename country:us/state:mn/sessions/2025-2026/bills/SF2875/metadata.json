@@ -7,7 +7,6 @@
     "bill"
   ],
   "subject": [
-    "Appropriations",
     "Cities and Towns-Specific",
     "Employment and Economic Development Department",
     "Health and Health Department",
@@ -54,6 +53,16 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:25Z"
       }
+    },
+    {
+      "description": "Author added Johnson Stewart",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -71,6 +80,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Hauschild\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Johnson Stewart",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Johnson Stewart\"}",
       "organization_id": null
     }
   ],
@@ -98,7 +115,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2875?body=Senate",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2875?list=open&body=Senate",
       "note": ""
     }
   ],
@@ -110,7 +127,7 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:25Z",
+    "logs_latest_update": "2026-07-15T13:25:59Z",
     "text_extraction_latest_update": "2026-07-13T11:05:17.616804Z"
   }
 }

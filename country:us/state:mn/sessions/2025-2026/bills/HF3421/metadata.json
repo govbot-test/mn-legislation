@@ -1,13 +1,12 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "HF 3421",
-  "title": "Early literacy field experience required for teacher candidates providing early literacy instruction, rulemaking required, and money appropriated.",
+  "title": "Early literacy field experience required for teacher candidates providing early literacy instruction, and rulemaking required.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "Appropriations",
     "Education and Education Department",
     "Teachers"
   ],
@@ -60,6 +59,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T06:06:25Z"
+      }
+    },
+    {
+      "description": "Committee report, to adopt as amended",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:26:00Z"
+      }
+    },
+    {
+      "description": "Second reading",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:26:00Z"
       }
     }
   ],
@@ -131,13 +154,24 @@
       ],
       "date": "2026-02-11",
       "classification": ""
+    },
+    {
+      "note": "1st Engrossment",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3421/versions/1/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-03-25",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3421?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3421?list=open&body=House",
       "note": ""
     }
   ],
@@ -149,7 +183,7 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:25Z",
+    "logs_latest_update": "2026-07-15T13:26:00Z",
     "text_extraction_latest_update": "2026-07-13T10:52:23.358756Z"
   }
 }

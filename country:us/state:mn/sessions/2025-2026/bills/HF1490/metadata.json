@@ -29,14 +29,32 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:21Z"
       }
+    },
+    {
+      "description": "Author added Mueller be added as Chief Author",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:26:00Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Bennett",
+      "name": "Mueller",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
+      "person_id": "~{\"name\": \"Mueller\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bennett",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
       "person_id": "~{\"name\": \"Bennett\"}",
       "organization_id": null
     }
@@ -59,7 +77,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/1490?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/1490?list=open&body=House",
       "note": ""
     }
   ],
@@ -71,7 +89,7 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:21Z",
+    "logs_latest_update": "2026-07-15T13:26:00Z",
     "text_extraction_latest_update": "2026-07-13T14:00:31.632655Z"
   }
 }

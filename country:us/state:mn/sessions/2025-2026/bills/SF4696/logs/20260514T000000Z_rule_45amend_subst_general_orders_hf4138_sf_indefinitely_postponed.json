@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Rule 45-amend, subst. General Orders HF4138, SF indefinitely postponed",
+    "occurred_at": "2026-05-14",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4696?list=open&body=Senate",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SF 4696"
+}

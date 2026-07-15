@@ -42,6 +42,16 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:25Z"
       }
+    },
+    {
+      "description": "Author added Putnam",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:26:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -76,6 +86,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Wesenberg\"}",
       "organization_id": null
+    },
+    {
+      "name": "Putnam",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Putnam\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -102,7 +120,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2484?body=Senate",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2484?list=open&body=Senate",
       "note": ""
     }
   ],
@@ -114,7 +132,7 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:25Z",
+    "logs_latest_update": "2026-07-15T13:26:00Z",
     "text_extraction_latest_update": "2026-07-13T12:31:22.674350Z"
   }
 }

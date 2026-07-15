@@ -1,12 +1,16 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "SF 4559",
-  "title": "Electronic voting system definition modification and certain voting system rules and instructions to be made available and acknowledged by  a voter using mobile phone technology authorization provision",
+  "title": "Electronic voting system definition modification and certain voting system rules and instructions to be made available and acknowledged by  a voter using mobile phone technology authorization",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "Elections",
+    "Government-State",
+    "Telecommunications and Information Technology"
+  ],
   "abstracts": [],
   "other_titles": [],
   "other_identifiers": [
@@ -38,6 +42,16 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:22Z"
       }
+    },
+    {
+      "description": "Author added Utke",
+      "date": "2026-04-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -48,9 +62,23 @@
       "primary": true,
       "person_id": "~{\"name\": \"Dibble\"}",
       "organization_id": null
+    },
+    {
+      "name": "Utke",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Utke\"}",
+      "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "HF 4962",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduction",
@@ -68,7 +96,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4559?body=Senate",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4559?list=open&body=Senate",
       "note": ""
     }
   ],
@@ -80,7 +108,7 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:22Z",
+    "logs_latest_update": "2026-07-15T13:25:59Z",
     "text_extraction_latest_update": "2026-07-13T15:39:50.707461Z"
   }
 }

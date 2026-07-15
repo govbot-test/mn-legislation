@@ -1,15 +1,15 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "SF 3664",
-  "title": "Department of Employment and Economic Development unfunded programs repealer and conforming changes provision",
+  "title": "Omnibus Jobs and Economic Development policy and supplemental appropriations",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
+    "Appropriations-Omnibus Bills",
     "Employment and Economic Development Department",
-    "Environment",
-    "Recreation, Tourism, and Amusement"
+    "Omnibus"
   ],
   "abstracts": [],
   "other_titles": [],
@@ -42,6 +42,19 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:25Z"
       }
+    },
+    {
+      "description": "Comm report: To pass as amended and re-refer to Finance",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -72,13 +85,24 @@
       ],
       "date": "2026-02-17",
       "classification": ""
+    },
+    {
+      "note": "1st Engrossment",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/3664/versions/1/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-04-16",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/3664?body=Senate",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/3664?list=open&body=Senate",
       "note": ""
     }
   ],
@@ -90,7 +114,7 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:25Z",
+    "logs_latest_update": "2026-07-15T13:25:59Z",
     "text_extraction_latest_update": "2026-07-13T10:07:41.267271Z"
   }
 }

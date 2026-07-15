@@ -1,14 +1,12 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "SF 3684",
-  "title": "Mary C. Murphy Library Construction Grants Program modifications, appropriation, and bond issuance authorization",
+  "title": "Mary C. Murphy Library Construction Grants Program modification",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "Appropriations",
-    "Bonds",
     "Education and Education Department",
     "Libraries"
   ],
@@ -66,6 +64,29 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:22Z"
       }
+    },
+    {
+      "description": "Comm report: To pass as amended and re-refer to Finance",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:26:00Z"
+      }
+    },
+    {
+      "description": "Author added Miller",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:26:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -100,6 +121,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Hoffman\"}",
       "organization_id": null
+    },
+    {
+      "name": "Miller",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Miller\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -120,13 +149,24 @@
       ],
       "date": "2026-02-18",
       "classification": ""
+    },
+    {
+      "note": "1st Engrossment",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/3684/versions/1/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-03-23",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/3684?body=Senate",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/3684?list=open&body=Senate",
       "note": ""
     }
   ],
@@ -138,7 +178,7 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:22Z",
+    "logs_latest_update": "2026-07-15T13:26:00Z",
     "text_extraction_latest_update": "2026-07-13T11:31:16.861285Z"
   }
 }

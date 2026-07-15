@@ -6,7 +6,11 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "Business",
+    "Drugs and Medicine",
+    "Governmental Operations-Local"
+  ],
   "abstracts": [],
   "other_titles": [],
   "other_identifiers": [
@@ -26,6 +30,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T06:06:22Z"
+      }
+    },
+    {
+      "description": "Committee report, to adopt and re-refer to Commerce Finance and Policy",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:26:00Z"
       }
     }
   ],
@@ -63,7 +79,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4202?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4202?list=open&body=House",
       "note": ""
     }
   ],
@@ -75,7 +91,7 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:22Z",
+    "logs_latest_update": "2026-07-15T13:26:00Z",
     "text_extraction_latest_update": "2026-07-13T14:17:39.530257Z"
   }
 }

@@ -1,13 +1,13 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "SF 3120",
-  "title": "Statewide children's savings account program for higher education establishment; local partner design and implementation grants establishment; appropriating money",
+  "title": "Certain counties children's savings account program for higher education and pilot grant project establishment and appropriation",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "Appropriations",
+    "Counties-Specific",
     "Education and Education Department",
     "Education-Higher"
   ],
@@ -42,6 +42,29 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:23Z"
       }
+    },
+    {
+      "description": "Comm report: To pass as amended and re-refer to Health and Human Services",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:26:00Z"
+      }
+    },
+    {
+      "description": "Author added Coleman",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:26:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -59,6 +82,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Kupec\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Coleman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Coleman\"}",
       "organization_id": null
     }
   ],
@@ -80,13 +111,24 @@
       ],
       "date": "2025-03-27",
       "classification": ""
+    },
+    {
+      "note": "1st Engrossment",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/3120/versions/1/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-03-26",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/3120?body=Senate",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/3120?list=open&body=Senate",
       "note": ""
     }
   ],
@@ -98,7 +140,7 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:23Z",
+    "logs_latest_update": "2026-07-15T13:26:00Z",
     "text_extraction_latest_update": "2026-07-13T14:15:48.962746Z"
   }
 }

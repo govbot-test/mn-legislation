@@ -7,7 +7,6 @@
     "bill"
   ],
   "subject": [
-    "Appropriations",
     "Commerce and Commerce Department",
     "Energy"
   ],
@@ -52,6 +51,26 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:25Z"
       }
+    },
+    {
+      "description": "Author stricken Mitchell",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:26:00Z"
+      }
+    },
+    {
+      "description": "Author added Hemmingsen-Jaeger",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:26:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -72,11 +91,11 @@
       "organization_id": null
     },
     {
-      "name": "Mitchell",
+      "name": "Hemmingsen-Jaeger",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Mitchell\"}",
+      "person_id": "~{\"name\": \"Hemmingsen-Jaeger\"}",
       "organization_id": null
     }
   ],
@@ -104,7 +123,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2900?body=Senate",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2900?list=open&body=Senate",
       "note": ""
     }
   ],
@@ -116,7 +135,7 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:25Z",
+    "logs_latest_update": "2026-07-15T13:26:00Z",
     "text_extraction_latest_update": "2026-07-13T14:38:20.466781Z"
   }
 }

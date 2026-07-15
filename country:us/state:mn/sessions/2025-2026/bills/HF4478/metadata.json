@@ -1,12 +1,15 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "HF 4478",
-  "title": "Direct Care and Treatment data requirements modified.",
+  "title": "Disclosure limitations on personnel data for employees of secure treatment facilities and treatment facilities modified.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "Health and Health Department",
+    "Human Services and Human Services Department"
+  ],
   "abstracts": [],
   "other_titles": [],
   "other_identifiers": [
@@ -36,6 +39,28 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T06:06:25Z"
+      }
+    },
+    {
+      "description": "Committee report, to adopt as amended",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
+      }
+    },
+    {
+      "description": "Joint rule 2.03, Deadlines, re-referred to Rules and Legislative Administration",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
       }
     }
   ],
@@ -67,13 +92,24 @@
       ],
       "date": "2026-03-18",
       "classification": ""
+    },
+    {
+      "note": "1st Engrossment",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4478/versions/1/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-04-16",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4478?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4478?list=open&body=House",
       "note": ""
     }
   ],
@@ -85,7 +121,7 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:25Z",
+    "logs_latest_update": "2026-07-15T13:25:59Z",
     "text_extraction_latest_update": "2026-07-13T13:27:36.837831Z"
   }
 }

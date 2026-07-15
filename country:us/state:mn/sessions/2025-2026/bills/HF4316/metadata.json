@@ -1,12 +1,15 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "HF 4316",
-  "title": "Child care background study notification requirements modified, child care leadership made responsible for maltreatment at centers, and maltreatment notification requirements modified.",
+  "title": "Licensing actions modified to indicate whether a violation was self-reported, and child care programs required to give parents materials on how to recognize abuse.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "Children-Child Abuse and Neglect",
+    "Children-Child Care and Facilities"
+  ],
   "abstracts": [],
   "other_titles": [],
   "other_identifiers": [
@@ -36,6 +39,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T06:06:20Z"
+      }
+    },
+    {
+      "description": "Committee report, to adopt as amended and re-refer to Ways and Means",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:25:59Z"
       }
     }
   ],
@@ -77,13 +92,24 @@
       ],
       "date": "2026-03-13",
       "classification": ""
+    },
+    {
+      "note": "1st Engrossment",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4316/versions/1/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-04-07",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4316?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4316?list=open&body=House",
       "note": ""
     }
   ],
@@ -95,7 +121,7 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:20Z",
+    "logs_latest_update": "2026-07-15T13:25:59Z",
     "text_extraction_latest_update": "2026-07-13T13:54:56.906150Z"
   }
 }

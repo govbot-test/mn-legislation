@@ -7,7 +7,6 @@
     "bill"
   ],
   "subject": [
-    "Bonds",
     "Historic Sites and Historical Societies"
   ],
   "abstracts": [],
@@ -30,6 +29,16 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:24Z"
       }
+    },
+    {
+      "description": "Author added Olson",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:26:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -39,6 +48,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Huot\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Olson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Olson\"}",
       "organization_id": null
     }
   ],
@@ -60,7 +77,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/226?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/226?list=open&body=House",
       "note": ""
     }
   ],
@@ -72,7 +89,7 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:24Z",
+    "logs_latest_update": "2026-07-15T13:26:00Z",
     "text_extraction_latest_update": "2026-07-13T15:38:03.957670Z"
   }
 }
